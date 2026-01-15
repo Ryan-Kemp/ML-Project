@@ -1,7 +1,7 @@
 # AI Pokemon Player
 
 ## About This Project
-As a kid, I loved playing Pokémon video games. I spent countless hours exploring regions, battling trainers, and trying to catch every Pokémon. Growing up with these games left me with a continuing appreciation for their strategy, complexity, and charm. In fact, the popularity of Pokémon (and related merchandising) has continued to grow and Pokémon is arguably now more popular than ever. I realized that combining these two interests could lead to an engaging machine learning project: teaching an AI to play Pokémon… and ultimately beat the current Pokémon champion.
+As a kid, I loved playing Pokémon video games. I spent countless hours exploring regions, battling trainers, and trying to catch every Pokémon. Growing up with these games left me with a continuing appreciation for the games strategy, complexity, and charm. In fact, the popularity of Pokémon (and related merchandising) has continued to grow and Pokémon is arguably now more popular than ever. Given my appreciation for machine learning and AI, I realized that combining these two interests could lead to an engaging machine learning project: Creating a Machine Learning model that is able to play Pokémon…  and ultimately beat the Pokémon champion.
 
 
 # Current Progress
@@ -19,7 +19,7 @@ This project will progress in multiple stages, with each stage building on the p
 - Goal: Teach the AI basic navigation and movement mechanics.
 
 ### **Stage 2: Progression and Interaction**
-- Reward the model for moving **and** interacting with NPCs or objects that allow progression (e.g., talking to people, picking up items).
+- Reward the model for moving **and** interacting with NPCs (Non-playable charactrs) or objects that allow progression (e.g., talking to people, picking up items).
 - Goal: Teach the AI to explore the game world and make meaningful progress.
 
 ### **Stage 3: Catching and Training Pokémon**
