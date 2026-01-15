@@ -1,7 +1,7 @@
 # AI Pokemon Player
 
 ## About This Project
-As a kid, I loved playing Pokémon video games. I spent countless hours exploring regions, battling trainers, and trying to catch every Pokémon. Growing up with these games left me with a continuing appreciation for the games strategy, complexity, and charm. In fact, the popularity of Pokémon (and related merchandising) has continued to grow and Pokémon is arguably now more popular than ever. Given my appreciation for machine learning and AI, I realized that combining these two interests could lead to an engaging machine learning project: Creating a Machine Learning model that is able to play Pokémon … and ultimately beat the Pokémon champion.
+As a kid, I loved playing Pokémon video games. I spent countless hours exploring regions, battling trainers, and trying to catch every Pokémon. Growing up with these games left me with a continuing appreciation for the games strategy, complexity, and charm. In fact, the popularity of Pokémon (and related merchandising) has continued to grow and Pokémon is arguably now more popular than ever. Given my appreciation for machine learning and AI, I realized that combining these two interests could lead to an engaging machine learning project: Creating a Machine Learning model that is able to play Pokémon… and ultimately beat the Pokémon champion.
 
 
 # Current Progress
